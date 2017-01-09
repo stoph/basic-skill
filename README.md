@@ -1,2 +1,2 @@
-# basic-skill
-Simplest alexa skill possible to say something
+# Basic Skill
+Simplest Alexa skill possible to say something
